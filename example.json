@@ -1,0 +1,20 @@
+{
+  'containerInstanceArns': 
+  [
+    'arn:aws:ecs:us-west-2:558102088346:container-instance/zenith-apps-cluster-stg/4d1b994fda5b4a5bbb5c2ea15f37e050', 
+    'arn:aws:ecs:us-west-2:558102088346:container-instance/zenith-apps-cluster-stg/6c4a60d0ee6743499361ac109b1bf907', 
+    'arn:aws:ecs:us-west-2:558102088346:container-instance/zenith-apps-cluster-stg/b06344e85a4c4582b9c0a70b853c18ac', 
+    'arn:aws:ecs:us-west-2:558102088346:container-instance/zenith-apps-cluster-stg/dab12af193894ed6affeffed455e2abb' 
+  ], 
+  'ResponseMetadata': {
+    'RequestId': 'b113d540-dc6e-4457-a7ad-2d3eaf2af786', 
+    'HTTPStatusCode': 200, 
+    'HTTPHeaders': {
+      'x-amzn-requestid': 'b113d540-dc6e-4457-a7ad-2d3eaf2af786', 
+      'content-type': 'application/x-amz-json-1.1', 
+      'content-length': '479', 
+      'date': 'Fri, 11 Mar 2022 19:02:12 GMT'
+    }, 
+    'RetryAttempts': 0
+  }
+}
